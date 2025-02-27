@@ -20,8 +20,6 @@ HTML5 & CSS3 🌐
 If you like this project, don't forget to ⭐ the repo! 😊
 
 
-Let me know if you want any changes! 🚀🎨
-
 ![Screenshot 2025-02-25 184124](https://github.com/user-attachments/assets/0f55a25f-48af-4990-b0cc-fa42ae7c2d01)
 
 
